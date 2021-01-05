@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/1161906592/demo#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "jsdom": "^16.0.1"
   },
   "devDependencies": {
