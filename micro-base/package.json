@@ -10,7 +10,7 @@
     "element:build": "et"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "element-theme": "^2.0.1",
     "element-theme-chalk": "^2.13.1",
     "element-ui": "^2.13.1",
